@@ -1,1 +1,2 @@
 create table stu_info(id integer,name varchar(20));
+insert into stu_info(1,'eiMon Soe');
